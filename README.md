@@ -7,3 +7,5 @@ A place to keep track of all the annotated papers.
           ICPR 2020
 
 2. Attention is All you Need : NeurIPS 2017
+
+3. MLP-Mixer: An all MLP Architecture for Vision: May 2021
