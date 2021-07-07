@@ -12,3 +12,9 @@ A place to keep track of all the annotated papers.
 
 4. BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding  2018
 
+5. EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks - ICML 2019
+
+6. EfficientNetV2: Smaller Models and Faster Training 2021 - ICML 2021
+
+
+
