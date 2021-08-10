@@ -16,5 +16,10 @@ A place to keep track of all the annotated papers.
 
 6. EfficientNetV2: Smaller Models and Faster Training 2021 - ICML 2021
 
+7. Few-Shot Named Entity Recognition: A Comprehensive Study - Dec 2020
+
+8. RoBERTa: A Robustly Optimized BERT Pretraining Approach - Jul 2019
+
+
 
 
