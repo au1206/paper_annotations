@@ -1,5 +1,10 @@
 # Paper Annotations
+
 A place to keep track of all the annotated papers.
+
+
+
+<img src="https://imgur.com/v1TnohA">
 
 ## Papers
 
