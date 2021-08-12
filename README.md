@@ -4,7 +4,7 @@ A place to keep track of all the annotated papers.
 
 - 📫 How to reach me **[@akshayuppal12](https://twitter.com/akshayuppal12)**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/uppalakshay/)
-- Check out mt blog for such papers, tutorials and more: [https://au1206.github.io/](https://au1206.github.io/)
+- Check out my blog for such papers, tutorials and more: [https://au1206.github.io/](https://au1206.github.io/)
 
 ---
 ## Papers
