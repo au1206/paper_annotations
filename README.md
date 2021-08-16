@@ -1,6 +1,9 @@
 <img src='https://imgur.com/9qkTE8Z.png'>
 
-A place to keep track of all the annotated papers.
+A place to keep track of all the annotated research papers. The aim of this repo is to house the annotated versions of trending/impactful research papers in machine learning. According to me the skill of reading research papers is very important for beginners and experienced folks alike. With a plethora of content out there in terms of blogs and jargon and complex terms(calling back to old papers, concepts, etc) the newer folks are simply moving away from it. 
+
+In order to make paper reading more accessible, I try to annotate, give insights, try to break some jargon on the paper itself, and carefully color-coding the highlights to distinguish the work already done vs the work proposed in the paper. This is my attempt to give back to the community in the tiniest of ways :D. Hope this is helpful to the people and helps in inculcating a habit of paper reading among all.
+
 
 - 📫 How to reach me **[@akshayuppal12](https://twitter.com/akshayuppal12)**
 - 📄 Know about my experiences on [LinkedIn](https://www.linkedin.com/in/uppalakshay/)
