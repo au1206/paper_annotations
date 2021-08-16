@@ -10,6 +10,9 @@ In order to make paper reading more accessible, I try to annotate, give insights
 - Check out my blog for such papers, tutorials and more: [https://au1206.github.io/](https://au1206.github.io/)
 
 ---
+
+[![Join the chat at https://gitter.im/ML-Annotated-Papers-Paper-reading-simplified/community](https://badges.gitter.im/ML-Annotated-Papers-Paper-reading-simplified/community.svg)](https://gitter.im/ML-Annotated-Papers-Paper-reading-simplified/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Papers
 | | Paper | Conference | Year |
 | :---: | :--- | :---: | :---: |
