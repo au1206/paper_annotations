@@ -24,6 +24,7 @@ In order to make paper reading more accessible, I try to annotate, give insights
 |6.| [EfficientNetV2: Smaller Models and Faster Training](https://github.com/au1206/paper_annotations/blob/master/EfficientNet-v2.pdf) | ICML |2021|
 |7.| [Few-Shot Named Entity Recognition: A Comprehensive Study](https://github.com/au1206/paper_annotations/blob/master/Few_shot_NER.pdf) | |Dec 2020|
 |8.| [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://github.com/au1206/paper_annotations/blob/master/RoBERTa.pdf)| |Jul 2019 |
+|9.| [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLM.pdf)| KDD 20 |Dec 2019|
 
 
 ---
