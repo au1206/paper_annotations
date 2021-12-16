@@ -26,7 +26,7 @@ In order to make paper reading more accessible, I try to annotate, give insights
 |8.| [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://github.com/au1206/paper_annotations/blob/master/RoBERTa.pdf)| |Jul 2019 |
 |9.| [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLM.pdf)| KDD 20 |Dec 2019|
 |10.| [Fastformer: Additive Attention Can Be All You Need](https://github.com/au1206/paper_annotations/blob/master/Fastformer.pdf)||Sep 2021|
-|11.| [LAYOUTLMV2: Multi-Modal Pre-Training For Visually-Rich Document Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLMv2.pdf)|ACL|Sep 2021|
+|11.| [LayoutLMv2: Multi-Modal Pre-Training For Visually-Rich Document Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLMv2.pdf)|ACL|Sep 2021|
 
 
 ---
