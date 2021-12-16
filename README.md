@@ -25,6 +25,7 @@ In order to make paper reading more accessible, I try to annotate, give insights
 |7.| [Few-Shot Named Entity Recognition: A Comprehensive Study](https://github.com/au1206/paper_annotations/blob/master/Few_shot_NER.pdf) | |Dec 2020|
 |8.| [RoBERTa: A Robustly Optimized BERT Pretraining Approach](https://github.com/au1206/paper_annotations/blob/master/RoBERTa.pdf)| |Jul 2019 |
 |9.| [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLM.pdf)| KDD 20 |Dec 2019|
+|10.| [Fastformer: Additive Attention Can Be All You Need](https://github.com/au1206/paper_annotations/blob/master/Fastformer.pdf)||Sep 2021|
 
 
 ---
