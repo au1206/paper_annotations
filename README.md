@@ -11,7 +11,6 @@ In order to make paper reading more accessible, I try to annotate, give insights
 
 ---
 
-[![Join the chat at https://gitter.im/ML-Annotated-Papers-Paper-reading-simplified/community](https://badges.gitter.im/ML-Annotated-Papers-Paper-reading-simplified/community.svg)](https://gitter.im/ML-Annotated-Papers-Paper-reading-simplified/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ## Papers
 | | Paper | Conference | Year |
