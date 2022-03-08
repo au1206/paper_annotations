@@ -26,6 +26,7 @@ In order to make paper reading more accessible, I try to annotate, give insights
 |9.| [LayoutLM: Pre-training of Text and Layout for Document Image Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLM.pdf)| KDD 20 |Dec 2019|
 |10.| [Fastformer: Additive Attention Can Be All You Need](https://github.com/au1206/paper_annotations/blob/master/Fastformer.pdf)||Sep 2021|
 |11.| [LayoutLMv2: Multi-Modal Pre-Training For Visually-Rich Document Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLMv2.pdf)|ACL|Sep 2021|
+|12.| [WebFormer: The Web-page Transformer for Structure Information Extraction](https://github.com/au1206/paper_annotations/blob/master/Webformer.pdf) | WWW |Feb 2022|
 
 
 ---
