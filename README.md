@@ -1,6 +1,6 @@
 <img src='https://imgur.com/9qkTE8Z.png'>
 
-A place to keep track of all the annotated research papers. The aim of this repo is to house the annotated versions of trending/impactful research papers in machine learning. According to me the skill of reading research papers is very important for beginners and experienced folks alike. With a plethora of content out there in terms of blogs and jargon and complex terms(calling back to old papers, concepts, etc) the newer folks are simply moving away from it. 
+A place to keep track of all the annotated research papers. The aim of this repo is to house the annotated versions of trending/impactful research papers in machine learning. According to me the skill of reading research papers is very important for beginners and experienced folks alike. With a plethora of content out there in terms of blogs and jargon and complex terms(calling back to old papers, concepts, etc) the newer folks are simply moving away from it.
 
 In order to make paper reading more accessible, I try to annotate, give insights, try to break some jargon on the paper itself, and carefully color-coding the highlights to distinguish the work already done vs the work proposed in the paper. This is my attempt to give back to the community in the tiniest of ways :D. Hope this is helpful to the people and helps in inculcating a habit of paper reading among all.
 
@@ -27,6 +27,7 @@ In order to make paper reading more accessible, I try to annotate, give insights
 |10.| [Fastformer: Additive Attention Can Be All You Need](https://github.com/au1206/paper_annotations/blob/master/Fastformer.pdf)||Sep 2021|
 |11.| [LayoutLMv2: Multi-Modal Pre-Training For Visually-Rich Document Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLMv2.pdf)|ACL|Sep 2021|
 |12.| [WebFormer: The Web-page Transformer for Structure Information Extraction](https://github.com/au1206/paper_annotations/blob/master/Webformer.pdf) | WWW |Feb 2022|
+|13.| [An Attention Free Transformer](https://github.com/au1206/paper_annotations/blob/master/an_attention_free_transformer.pdf)||Sep 2021|
 
 
 ---
@@ -36,12 +37,9 @@ In order to make paper reading more accessible, I try to annotate, give insights
 
 ## Color Scheme
 | Color | Meaning |
-| :---: | :--- | 
+| :---: | :--- |
 | Green | Topics about the current paper |
 | Yellow | Topics about other relevant references |
 | Blue | Implementation details/ maths/experiments |
-| Red | Text including my thoughts, questions, and understandings | 
+| Red | Text including my thoughts, questions, and understandings |
 ---
-
-
-
