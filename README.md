@@ -28,6 +28,7 @@ In order to make paper reading more accessible, I try to annotate, give insights
 |11.| [LayoutLMv2: Multi-Modal Pre-Training For Visually-Rich Document Understanding](https://github.com/au1206/paper_annotations/blob/master/LayoutLMv2.pdf)|ACL|Sep 2021|
 |12.| [WebFormer: The Web-page Transformer for Structure Information Extraction](https://github.com/au1206/paper_annotations/blob/master/Webformer.pdf) | WWW |Feb 2022|
 |13.| [An Attention Free Transformer](https://github.com/au1206/paper_annotations/blob/master/an_attention_free_transformer.pdf)||Sep 2021|
+|14.| [DIT: SELF-SUPERVISED PRE-TRAINING FOR DOCUMENT IMAGE TRANSFORMER](https://github.com/au1206/paper_annotations/blob/master/DiT.pdf)||Mar 2022|
 
 
 ---
